@@ -5,12 +5,12 @@
 /*
 Fastes/Best Discord Nuke/Wizz Bot
 Features:
-⚬ Ban All
-⚬ Deleted every Channel
-⚬ Deleted every Role
-⚬ Spam Channel 
-⚬ Do not ban certain people
-⚬Have Fun to run some Server´s 
+Ban All
+Deleted every Channel
+Deleted every Role
+Spam Channel 
+Do not ban certain people
+Have Fun to run some Server´s 
 */
 ```
 
@@ -19,10 +19,10 @@ Features:
 ## 🐺 Setup the Nuke Bot :
 ```cs
 /*
-⚬Enter Bot Token 
-⚬( How to get it https://discord.com/developers/ ) 
-⚬Enter ur costum Message SPAM_MESSAGE = 
-⚬Enter ur costum Channel SPAM_CHANNEL =
+Enter Bot Token 
+( How to get it https://discord.com/developers/ ) 
+Enter ur costum Message SPAM_MESSAGE = 
+Enter ur costum Channel SPAM_CHANNEL =
 */
 ```
 
