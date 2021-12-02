@@ -1,5 +1,5 @@
 #
-
+![](https://img.shields.io/github/Bl4deDEV/Best-Discord-Server-Nuker-wizz-Bot?style=social)<br>![](https://img.shields.io/github/stars/Bl4deDEV/Best-Discord-Server-Nuker-wizz-Bot?style=social)
 ## 🐺 Features:
 ```cs
 /*
